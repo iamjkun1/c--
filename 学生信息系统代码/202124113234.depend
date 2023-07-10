@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1648737608 source:c:\users\jowh\desktop\新建文件夹 (2)\202124113234\main.cpp
+	"main.h"
+
+1648737608 c:\users\jowh\desktop\新建文件夹 (2)\202124113234\include\main.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
